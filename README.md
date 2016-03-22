@@ -9,6 +9,7 @@ go build
 ## Test
 
 echo "Test message" >index.html
+
 ./serve
 
 ## Options
